@@ -2,7 +2,7 @@
 
 ![Visual examples](visual_results_journal_paper.png)
 
-In our publication [Fischer2022], neural image compression networks have been optimized for reducing the bitrate while maintaining the detection accuracy of a Mask R-CNN instance segemenation network that is applied to the decoded images. This repository now publishes the most relevant models and exemplary inference code to reproduce the coded images. In total the following models are published:
+In our publication [Fischer2022], neural image compression networks have been optimized for reducing the bitrate while maintaining the detection accuracy of a Mask R-CNN instance segemenation network that is applied to the decoded images. This repository now publishes the most relevant models and exemplary inference code to reproduce the coded images. In total the following models can be downloaded from [Link](https://drive.google.com/drive/folders/13j2UdpH5I7H3COqbP7rjjYyUn8HeFjun?usp=sharing):
 * **NCN+L_HVS+CS**: Model trained on Cityscapes and HVS loss
 * **NCN+L_F+CS**: Model trained on Cityscapes and novel feature-based loss
 * **NCN+L_TASK+CS**: Model trained end-to-end on Cityscapes and Mask R-CNN loss
