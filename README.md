@@ -19,5 +19,5 @@ The specification of the used conda environment can be found in the file [enviro
 ## Literature
 If you are using our models please cite the following work:
 
-[Fischer2022] K. Fischer, F. Brand, A. Kaup, "Boosting Neural Image Compression for Machines Using Latent Space Masking," accepted for IEEE Transactions on Circuits and Systems for Video Technology, 2022, DOI:10.1109/TCSVT.2022.3195322
+[Fischer2022] K. Fischer, F. Brand, A. Kaup, "Boosting Neural Image Compression for Machines Using Latent Space Masking," accepted for IEEE Transactions on Circuits and Systems for Video Technology, 2022, [DOI:10.1109/TCSVT.2022.3195322](https://doi.org/10.1109/TCSVT.2022.3195322)
 
